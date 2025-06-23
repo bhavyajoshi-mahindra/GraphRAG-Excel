@@ -1,0 +1,8 @@
+__pycache__
+.conda
+.qodo
+add.txt
+test.py
+create_chatbot.ipynb
+main_notebook.ipynb
+parse_excel.ipynb
