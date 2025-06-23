@@ -63,7 +63,7 @@ NEO4J_PASSWORD=your_password_here
 AZURE_DEPLOYMENT=your_azure_deployment_name
 AZURE_OPENAI_API_KEY=your_openai_key
 AZURE_OPENAI_ENDPOINT=https://your-resource.openai.azure.com/
-AZURE_OPENAI_VERSION=2023-05-15
+AZURE_OPENAI_VERSION=your-api-version
 ```
 
 ### 🔹 Step 2: Create the Knowledge Graph
